@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻I am currently working on my second module of the Microverse curriculum<br>🤝I am always open for collaboration<br>🎧I really enjoy listening to music<br>🌍 One of my goals is to see more of the world
+👨‍💻I am currently working on my third module of the Microverse curriculum<br>🤝I am always open for collaboration<br>🎧I really enjoy listening to music<br>🌍 One of my goals is to see more of the world
 
 
 ## 🌐 Socials:
