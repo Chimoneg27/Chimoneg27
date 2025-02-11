@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Growit MC as a web developer<br>🎧 I enjoy listening to music<br>🎮 I am a gamer. Favorite franchise is the Assassin's Creed games<br>📕 I read a lot. <br>🤝 I’m looking for help with becoming Africa's youngest billionaire<br>🌱 I’m currently learning some python for backend web development
+🎧 I enjoy listening to music<br>🎮 I am a gamer. Favorite franchise is the Assassin's Creed games<br>📕 I read a lot. <br>🤝 I’m looking for help with becoming Africa's youngest billionaire<br>🌱 I’m currently learning some python for backend web development
 
 
 ## 🌐 Socials:
