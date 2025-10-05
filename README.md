@@ -1,5 +1,5 @@
 # 💫 About Me:
-📕 I read a lot. 
+
 
 
 ## 🌐 Socials:
